@@ -61,6 +61,6 @@ SampleApp::Application.routes.draw do
   # match ':controller(/:action(/:id))(.:format)'
 
  get "static_pages/about"
-
+get "static_pages/contact"
 
 end
